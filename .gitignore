@@ -1,11 +1,13 @@
-.DS_Store
-.idea/
+_site
+_posts/_draft
+_posts/_archive
+_archive
+node_modules
+.vscode
 *.log
-*.iml
-yarn.lock
-package-lock.json
-node_modules/
-.cache
-
-# Setting
-_config.yml
+*.lock
+*.sh
+.DS_Store
+.jekyll-cache
+*/.DS_Store
+*/*/.DS_Store
