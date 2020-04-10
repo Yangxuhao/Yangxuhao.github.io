@@ -1,7 +1,3 @@
-markdown: kramdown
-
-permalink: /blog/:year/:month/:day/:title
-
 # Site settings
 title: xuhaoYang Blog
 SEOTitle: 豪大的博客 | yxh Blog
