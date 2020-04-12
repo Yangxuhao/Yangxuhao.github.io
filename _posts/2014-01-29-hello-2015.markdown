@@ -4,7 +4,7 @@ title:      "my music"
 subtitle:   "测试音乐播放器1"
 date:       2020-04-12 12:00:00
 author:     "yxh"
-header-img: ""
+header-img: "tag-bg.jpg"
 catalog: true
 tags:
     - bete
@@ -16,6 +16,6 @@ tags:
 <p>http://q8o754xjs.bkt.clouddn.com/Audio%20Highs%20-%20%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E3%81%A7%E2%80%9C%E6%96%87%E5%AD%A6%E5%B0%91%E5%A5%B3%E2%80%9D.mp3?e=1586691936&token=HVja6Y40aR94Ul8Q2HnwiP81xlreWGLKnPXtqUn5:GnN65jxmu1tELr9p9fZn43gs6bo=</p>
 
 
-音乐播放器测试1
+音乐播放器测试1.2
 
 
