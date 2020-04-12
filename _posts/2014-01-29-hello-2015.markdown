@@ -4,7 +4,7 @@ title:      "my music"
 subtitle:   "测试音乐播放器1"
 date:       2020-04-12 12:00:00
 author:     "yxh"
-header-img: "tag-bg.jpg"
+header-img: "img/tag-bg.jpg"
 catalog: true
 tags:
     - bete
