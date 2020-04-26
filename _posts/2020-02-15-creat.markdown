@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "尝试建立博客"
+subtitle:   "博客养成日记"
+date:       2020-04-11 12:00:00
+author:     "yxh"
+header-img: "img/tag-bg.jpg"
+catalog: true
+tags:
+    - build
+---
+>前一阵写简历的时候碰巧看到了，github page这个东西，怎么可以不试一试？？
+>>看了别人的经验，本来说自己从头搞起，可是web前端好久没玩了，看了一些别人成熟的模板，好吧，果然拷贝忍者
+>>这个东西建站很简单，而且可扩展性还可以，就是要习惯jekll框架的运行方式，markdown的语法也得看一看，
+>>先搞个简历功能吧，后面有时间再加别的
+
+
