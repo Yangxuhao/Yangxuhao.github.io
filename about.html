@@ -19,7 +19,7 @@ multilingual: true
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
-
+{% include introduce.html %}
 
 {% if site.disqus_username %}
 <!-- disqus 评论框 start -->
