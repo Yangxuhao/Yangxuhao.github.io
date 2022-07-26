@@ -15,24 +15,24 @@
 <h1>教育背景</h1>
 <table>
   <tr>
-    <td width="60%">
+    <td width="40%">
       <p><b>西安电子科技大学 微电子学院 </b></p>
     </td>
-    <td width="40%">
+    <td width="30%">
       <p><b>2020.09-2023.06 </b></p>
     </td>
-      <td width="60">
+      <td width="30%">
       <p><b>电子信息 硕士 </b></p>
     </td>
    </tr>
    <tr>
-    <td width="60%">
+    <td width="40%">
       <p><b>西安电子科技大学 通信工程学院 </b></p>
     </td>
-    <td width="40%">
+    <td width="30%">
       <p><b>2013.09-2017.07 </b></p>
     </td>
-      <td width="60">
+      <td width="30%">
       <p><b>信息工程 本科 </b></p>
     </td>
    </tr>
