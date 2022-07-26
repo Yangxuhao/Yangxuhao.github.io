@@ -1,10 +1,10 @@
 ## 个人介绍
 <h1>杨旭豪</h1>
 <table>
-  <td width="45%">
+  <td width="40%">
     <img src="/证件照.jpg" width="80%">
   </td>
-  <td width="55%">
+  <td width="60%">
     <p><b>电话：13163396252 </b></p>
     <p><b>邮箱：yxhyangxuhao@163.com </b></p>
     <p><b>QQ：2833144567 </b></p>
