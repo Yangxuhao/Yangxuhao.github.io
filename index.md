@@ -55,7 +55,8 @@
    </tr>
    <tr>
     <td width="100%">
-      <p><b>新型终端结构 GaN SBD 器件仿真及制备，仿真确认参数（TCAD Silvaco）->掩模版制备（L-Edit）->样品制备（EBL、ICP 刻蚀等）->测试分析->优化工艺及结构参数</b></p>
+      <p><b>新型终端结构 GaN SBD 器件仿真及制备，仿真确认参数（TCAD Silvaco）->掩模版制备（L-Edit）
+        ->样品制备（EBL、ICP 刻蚀等）->测试分析->优化工艺及结构参数</b></p>
     </td>
    </tr>
      <tr>
