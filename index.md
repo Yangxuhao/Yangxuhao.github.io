@@ -15,7 +15,7 @@
 <h1>教育背景</h1>
 <table>
 
-  <td width="60">
+  <td width="60%">
     <p><b>西安电子科技大学 微电子学院 </b></p>
   </td>
   <td width="40%">
@@ -24,7 +24,7 @@
     <td width="60">
     <p><b>电子信息 硕士 </b></p>
   </td>
-  <td width="60">
+  <td width="60%">
     <p><b>西安电子科技大学 通信工程学院 </b></p>
   </td>
   <td width="40%">
